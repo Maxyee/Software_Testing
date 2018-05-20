@@ -1,0 +1,5 @@
+c:\users\mohon\documents\visual studio 2015\Projects\Calculator.Web\Calculator.Library\bin\Debug\Calculator.Library.dll
+c:\users\mohon\documents\visual studio 2015\Projects\Calculator.Web\Calculator.Library\bin\Debug\Calculator.Library.pdb
+c:\users\mohon\documents\visual studio 2015\Projects\Calculator.Web\Calculator.Library\obj\Debug\Calculator.Library.csprojResolveAssemblyReference.cache
+c:\users\mohon\documents\visual studio 2015\Projects\Calculator.Web\Calculator.Library\obj\Debug\Calculator.Library.dll
+c:\users\mohon\documents\visual studio 2015\Projects\Calculator.Web\Calculator.Library\obj\Debug\Calculator.Library.pdb
